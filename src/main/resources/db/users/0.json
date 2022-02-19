@@ -1,0 +1,27 @@
+{
+  "reportCounter" : null,
+  "username" : "a",
+  "password" : "a",
+  "profile" : {
+    "reportCounter" : null,
+    "firstName" : "a",
+    "lastName" : "a",
+    "email" : "a",
+    "bio" : "",
+    "birthday" : null,
+    "phoneNumber" : "",
+    "lastSeen" : "EVERYONE",
+    "lastSeenTime" : "22/08/2021 03:22:49",
+    "systemNotifications" : [ ],
+    "sentRequest" : [ ],
+    "receivedRequest" : [ ],
+    "following" : [ ],
+    "followers" : [ ],
+    "blacklist" : [ ],
+    "muteList" : [ ],
+    "private" : false,
+    "active" : false,
+    "id" : 0
+  },
+  "id" : 0
+}

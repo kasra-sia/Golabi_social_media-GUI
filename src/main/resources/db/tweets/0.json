@@ -1,0 +1,25 @@
+{
+  "reportCounter" : [ ],
+  "userID" : 0,
+  "text" : "awadwada",
+  "time" : "11/08/2021 12:18:15",
+  "likes" : [ 0 ],
+  "comments" : [ {
+    "reportCounter" : [ ],
+    "userID" : 0,
+    "text" : "awdas",
+    "time" : null,
+    "likes" : [ ],
+    "comments" : [ ],
+    "id" : 0
+  }, {
+    "reportCounter" : [ ],
+    "userID" : 0,
+    "text" : "awd",
+    "time" : null,
+    "likes" : [ ],
+    "comments" : [ ],
+    "id" : 0
+  } ],
+  "id" : 0
+}
